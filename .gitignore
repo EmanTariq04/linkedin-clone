@@ -1,6 +1,7 @@
 node_modules
 build
-firebase
+.firebase
+src/firebase.js
 src/app/
 src/features/
 src/config/
