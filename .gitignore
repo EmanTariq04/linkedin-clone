@@ -1,0 +1,8 @@
+node_modules
+build
+firebase
+src/app/
+src/features/
+src/config/
+firebaserc
+firebase.json
